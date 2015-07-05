@@ -8,4 +8,3 @@ I hope to make it a better code by optimizing it and removing all the unnecessar
 
 This is my my first repository where I have uploaded a real project.
 I am new to HTML and CSS so I need suggestions from people better than me.
-=======
