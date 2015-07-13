@@ -289,7 +289,7 @@ ul#nav li.current a { color: #F06000; }
 
 #skills {
    background: #ebeeee;
-   padding-top: 40px;
+   padding-top: 65px;
    padding-bottom: 05px;
 }
 #skills h1 {
@@ -298,14 +298,14 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #202020; 
+   color: #202020;
 }
 /* ------------------------------------------------------------------
 /* f. Testimonials
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonial-bg.jpg) no-repeat center center;
+   background: #1F1F1F;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
