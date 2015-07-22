@@ -219,7 +219,7 @@ ul#nav li.current a { color: #F06000; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
-}
+}   
 #about .download .button:hover {
    background: #fff;
    color: #2B2B2B;
