@@ -219,7 +219,7 @@ ul#nav li.current a { color: #F06000; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
-}   
+}
 #about .download .button:hover {
    background: #fff;
    color: #2B2B2B;
@@ -305,7 +305,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F;
+   background: #1F1F1F url(../images/portfolio.jpg);
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
