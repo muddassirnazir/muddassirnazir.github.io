@@ -1,9 +1,9 @@
 #Introduction
 Hi..This is my online resume.
-I made this with the help of a template at styleshout.com
-I have mentioned their credit at the footer of of my website.
+I have made this template with the help of www.Styleshout.com
+For more legal stuff, please refer to the section given below. 
 
-#license
+#License
 
 This template is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
