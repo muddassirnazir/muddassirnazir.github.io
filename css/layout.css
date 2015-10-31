@@ -76,7 +76,7 @@ header .banner-text h3 a {
 }
 header .banner-text hr {
    width: 50%;
-   margin: 18px auto 24px auto;
+   margin: 25px auto 25px auto;
    border-color: #2F2D2E;
    border-color: rgba(150, 150, 150, .1);
 }
@@ -300,7 +300,7 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 48px;
    color: #202020;
 }
-/* ------------------------------------------------------------------
+/*------------------------------------------------------------------
 /* f. Testimonials
 /* ------------------------------------------------------------------ */
 
