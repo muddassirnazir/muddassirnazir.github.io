@@ -1,0 +1,102 @@
+=============================================================================================
+					Muddassir Nazir
+
+Phone : +91-7597922367                Hyderabad IN                Email : mnazir.me@gmail.com
+=============================================================================================
+
+I am a Linux enthusiast and a foodie. Mostly, I would be sitting at a terminal, fixing things, 
+making  them work and experimenting. I love working/tweaking with Linux. Ubuntu and CentOS are 
+my favorite  distros. I started my started my career as a System Admin and would like to see 
+myself contributing to Open Source Community in as many ways possible and helping people. I 
+have interest in working with Cloud, Automation and Devops.
+
+SKILLS
+******
+
+ - System Administration: Installation/configuration/ initial server setup.
+ - Apache & Nginx Web Server, SSH, Bind DNS, Mail Servers (Sendmail, Postfix, Exim)
+ - Hands on experience in troubleshooting the LAMP stack.
+ - Basics of Shell Scripting: sed, awk, regex.
+ - Amazon Web Services: EC2, Elastic Load Balancing, S3, VPC, EBS, Auto Scaling.
+ - Web hosting solutions, email, and user account administration.
+ - Automation: Chef and Ansible, working with GIT repositories.
+ - Continous Integration with Jenkins2.
+
+
+PROFESSIONAL EXPERIENCE
+****************
+
+DEVOPS ENGINEER, GSS INFOTECH, HYDERABAD (IN)                            MARCH ’17 – PRESENT
+---------------------------------------------------------------------------------------------
+Handling and Managing Openstack, AWS and GCP Server Infrastructure & scheduling snapshots of 
+volumes for backup and find root cause analysis of failures and documenting bugs and fixes.
+
+Automated deployments with Ansible and AWS Cloudformation.
+
+Maintained GIT repositories for DevOps environment & CI with Jenkins2.
+
+Monitoring centralized logging and log aggregation/searching (rsyslog/Graylog).
+
+Providing L2 support for the resolution of tickets raised by the end user in Jira ticketing 
+tool which  includes installation , configuration, Upgradation of the packages, User 
+management,Service management.
+
+Responsible for change management releases and Incident Handling.
+
+
+SYSTEMS ADMINISTRATOR, ZNETLIVE, JAIPUR (IN)                           MAY ’15 – DECEMBER ‘16
+---------------------------------------------------------------------------------------------
+As a Systems Administrator at Znetlive I helped people manage their webservers and host their 
+websites. We had DNS, Git, Log and Backup Servers, Load Balancers and a Private Cloud where 
+we setup Virtual Private Servers in no time. My responsibilities were:
+
+Installation and configuration of Web servers and their modules, securing services installed 
+on the server and keeping the server up to date by applying updates and security patches.
+
+Installation and configuration of control panels (WHM/cPanel/ Plesk) on Linux Servers.
+
+Backup and restoration of data, monitoring system resources and maintaining remote backups.
+
+Working on Amazon Web Services to provide L1 support to clients.
+
+Assigning and resolving helpdesk tickets of clients’ server related issues.
+
+Delivering training and talks to new recruits in Linux Team on basics of Web Hosting, AWS, 
+Linux, Mailing Services and Infra Solutions.
+
+
+CERTIFICATIONS
+**************
+
+RED HAT CERTIFIED SYSTEM ADMINISTRATOR: RHCSA (CERT ID : 130-179-682)
+
+RED HAT CERTIFIED ENGINEER: RHCE (CERT ID : 130-179-682)
+
+RED HAT CERTIFIED OPENSTACK ADMINISTRATOR (CERT ID : 130-179-682)
+
+RED HAT CERTIFICATE OF EXPERTISE IN HYBRID CLOUD STORAGE (CERT ID : 130-179-682)
+
+CLOUDU CERTIFICATE FROM RACKSPACE (HTTP://GOO.GL/O7DNJU)
+
+
+EDUCATION
+*********
+
+VIVEKANANDA INSTITUTE OF TECHNOLOGY (EAST) – JAIPUR (IN)                          2011 – 2015
+---------------------------------------------------------------------------------------------
+Bachelor of Technology in Computer Science & Engineering
+
+
+
+WEB INFO
+********
+
+Other Email : mnstalemate@gmail.com
+
+Hangouts : mnazir.me
+
+LinkedIn : in.linkedin.com/in/muddassirnazir
+
+Google Plus : https://plus.google.com/+MuddassirNazir
+---------------------------------------------------------------------------------------------
+muddassirnazir.github.io							                                    ©2017
