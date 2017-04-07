@@ -24,7 +24,7 @@ SKILLS
 
 
 PROFESSIONAL EXPERIENCE
-****************
+***********************
 
 DEVOPS ENGINEER, GSS INFOTECH, HYDERABAD (IN)                            MARCH ’17 – PRESENT
 ---------------------------------------------------------------------------------------------
@@ -79,8 +79,8 @@ RED HAT CERTIFICATE OF EXPERTISE IN HYBRID CLOUD STORAGE (CERT ID : 130-179-682)
 CLOUDU CERTIFICATE FROM RACKSPACE (HTTP://GOO.GL/O7DNJU)
 
 
-EDUCATION
-*********
+FORMAL EDUCATION
+****************
 
 VIVEKANANDA INSTITUTE OF TECHNOLOGY (EAST) – JAIPUR (IN)                          2011 – 2015
 ---------------------------------------------------------------------------------------------
@@ -88,8 +88,8 @@ Bachelor of Technology in Computer Science & Engineering
 
 
 
-WEB INFO
-********
+INTERNET FOOTPRINTS
+*******************
 
 Other Email : mnstalemate@gmail.com
 
