@@ -47,17 +47,17 @@ Responsible for change management releases and Incident Handling.
 SYSTEMS ADMINISTRATOR, ZNETLIVE, JAIPUR (IN)                           MAY ’15 – DECEMBER ‘16
 ---------------------------------------------------------------------------------------------
 As a Systems Administrator at Znetlive I helped people manage their webservers and host their 
-websites. We had DNS, Git, Log and Backup Servers, Load Balancers and a Private Cloud where 
-we setup Virtual Private Servers in no time. My responsibilities were:
+websites. I worked on DNS, Git, Log and Backup Servers, Load Balancers and a Private Cloud 
+where we setup Virtual Private Servers in no time. My responsibilities were:
 
 Installation and configuration of Web servers and their modules, securing services installed 
 on the server and keeping the server up to date by applying updates and security patches.
 
 Installation and configuration of control panels (WHM/cPanel/ Plesk) on Linux Servers.
 
-Backup and restoration of data, monitoring system resources and maintaining remote backups.
+Monitoring system resources and maintaining remote server backups.
 
-Working on Amazon Web Services to provide L1 support to clients.
+Resolving AWS related queries on L1.
 
 Assigning and resolving helpdesk tickets of clients’ server related issues.
 
@@ -82,7 +82,7 @@ CLOUDU WEB HOSTING CERTIFICATE FROM RACKSPACE : SOLUTIONS CONFIGURATOR
 
 CLOUDU BIG DATA CERTIFICATE
 
-AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE
+AWS CERTIFIED SOLUTIONS ARCHITECT : ASSOCIATE
 
 
 FORMAL EDUCATION
@@ -94,8 +94,8 @@ Bachelor of Technology in Computer Science & Engineering
 
 
 
-DIGITAL FOOTPRINT
-*****************
+DIGITAL FOOTPRINTS
+******************
 
 Other Email : mnstalemate@gmail.com
 
