@@ -95,7 +95,7 @@ AWS CERTIFIED SOLUTIONS ARCHITECT : ASSOCIATE
 EDUCATION
 ****************
 
-UDACITY																																				 DECEMBER, 2017
+UDACITY									       DECEMBER, 2017
 ---------------------------------------------------------------------------------------------
 Python Foundation Nanodegree
 
