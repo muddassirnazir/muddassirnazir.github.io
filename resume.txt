@@ -6,11 +6,7 @@ Phone : +91-8005543329                Hyderabad IN                Email : mnazir
 
 I am a Linux enthusiast and a foodie. Mostly, I would be sitting at a terminal, fixing things,
 making  them work and experimenting. I love working/tweaking with Linux. Ubuntu and CentOS are
-<<<<<<< HEAD
-my favorite  distros. I started my started my career as a System Admin and would like to see
-=======
 my favorite distros. I started my started my career as a System Admin and would like to see
->>>>>>> origin/master
 myself contributing to Open Source Community in as many ways possible and helping people. I
 have interest in working with Cloud, Automation and Devops.
 
