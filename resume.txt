@@ -97,7 +97,7 @@ EDUCATION
 
 EDX									       JAN 2018 - MAY 2018
 ---------------------------------------------------------------------------------------------
-Harvard PH256x: Using Python for Research
+Harvard PH526x: Using Python for Research
 
 
 UDACITY									       DECEMBER, 2017
