@@ -95,7 +95,7 @@ AWS CERTIFIED SOLUTIONS ARCHITECT : ASSOCIATE
 EDUCATION
 ****************
 
-EDX									       JAN 2018 - MAY 2018
+EDX									  JAN 2018 - MAY 2018
 ---------------------------------------------------------------------------------------------
 Harvard PH526x: Using Python for Research
 
