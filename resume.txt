@@ -6,22 +6,23 @@ Phone : +91-8005543329                Hyderabad IN                Email : mnazir
 
 I am a Linux sysadmin and a tech enthusiast. I love working with Linux. Ubuntu and CentOS are 
 my favorite distros. I started my career as a Sysadmin and would like to see myself 
-contributing to Open Source Community in as many ways possible and helping people. I am 
-interested in working with Cloud, Automation, and Devops.
+contributing  to Open Source Community in as many ways possible and helping people. I am 
+interested in working  with Cloud, Automation, and Devops.
 
 
 SKILLS
 ******
+-System Administration: Installation/configuration/server setup, hands on experience in 
+troubleshooting server related issues.
 
- - System Administration: Installation/configuration/ initial server setup.
- - Apache & Nginx Web Server, SSH, Bind DNS, Mail Servers (Sendmail, Postfix, Exim)
- - Hands on experience in troubleshooting the LAMP stack.
- - Basics of Shell Scripting: sed, awk, regex.
- - Amazon Web Services: EC2, Elastic Load Balancing, S3, VPC, EBS, Auto Scaling.
- - Web hosting solutions, email, and user account administration.
- - Automation: Chef and Ansible, working with GIT repositories.
- - Continous Integration with Jenkins2.
- - Python Programming - Basic Level
+-Web hosting solutions, email, and user account administration, Apache & Nginx Web Server, 
+SSH, Bind DNS, Mail Servers (Sendmail, Postfix, Exim).
+
+-Amazon Web Services: EC2, Elastic Load Balancing, S3, VPC, EBS, Auto Scaling. Automation 
+with Ansible, working with GIT repositories, CI with Jenkins2.
+
+-Basics of Shell Scripting: sed, awk, regex, HTML, CSS, Javascript Basics, Python Basics.
+
 
 
 PROFESSIONAL EXPERIENCE
@@ -29,46 +30,38 @@ PROFESSIONAL EXPERIENCE
 
 DEVOPS ENGINEER, GSS INFOTECH, HYDERABAD (IN)                            MARCH ’17 – PRESENT
 ---------------------------------------------------------------------------------------------
-Handling and Managing Openstack, AWS and GCP Server Infrastructure & scheduling snapshots of
-volumes for backup and find root cause analysis of failures and documenting bugs and fixes.
+Working with Rakuten Marketing Inc. as a L2 Sysadmin with Openstack expertise.
 
-Automated deployments with Ansible and AWS Cloudformation.
+My responsibilities include server migrations between different Openstack environment, 
+working with the onsite team to resolve AWS issues and handle AWS tasks and requests.
 
-Maintained GIT repositories for DevOps environment & CI with Jenkins2.
+Reviewing security groups and user permissions in Openstack and AWS.
 
-Monitoring centralized logging and log aggregation/searching (rsyslog/Graylog).
+Managing Git repositories, servers and handling Jenkins2 users and jobs.
 
-Providing L2 support for the resolution of tickets raised by the end user in Jira ticketing
-tool which  includes installation , configuration, Upgradation of the packages, User
-management,Service management.
+Worked with Ansible to deploy Zabbix agents to required nodes and creating new servers. 
 
-Responsible for change management releases and Incident Handling.
+Documenting new tasks and processes to create SOPs for L1 Sysadmins.
 
-Follow up with Vendors – ISP, hardware replacements and software support required & resolves
-issues by minimizing downtimes.
-
-Maintaining SLA’s and achieving Quality metrics as per company policy.
 
 
 
 SYSTEMS ADMINISTRATOR, ZNETLIVE, JAIPUR (IN)                           MAY ’15 – DECEMBER ‘16
 ---------------------------------------------------------------------------------------------
-As a Systems Administrator at Znetlive I helped people manage their webservers and host their
-websites. I worked on DNS, Git, Log and Backup Servers, Load Balancers and a Private Cloud
-where we setup Virtual Private Servers in no time. My responsibilities were:
+As a Sysadmin at Znetlive, I helped people manage their web servers and host their websites. 
+We had DNS, Git, Log and Backup Servers, Load Balancers and a Private Cloud where we set up 
+Virtual Private Servers in no time. My responsibilities were:
 
 Installation and configuration of Web servers and their modules, securing services installed
 on the server and keeping the server up to date by applying updates and security patches.
 
-Installation and configuration of control panels (WHM/cPanel/ Plesk) on Linux Servers.
+Installation and configuration of control panels (WHM/cPanel/ Plesk) on Linux Servers. 
 
-Monitoring system resources and maintaining remote server backups.
+Backup and restoration of data, monitoring system resources and maintaining remote backups.
 
-Resolving AWS related queries on L1.
+Assigning and resolving help desk tickets of clients’ server related issues.
 
-Assigning and resolving helpdesk tickets of clients’ server related issues.
-
-Delivering training and talks to new recruits in Linux Team on basics of Web Hosting, AWS,
+Delivering training and talks to new recruits in Linux Team on basics of Web Hosting, AWS, 
 Linux, Mailing Services and Infra Solutions.
 
 
