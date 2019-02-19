@@ -4,10 +4,10 @@
 Phone : +91-8005543329                Hyderabad IN                Email : mnazir.me@gmail.com
 =============================================================================================
 
-I am a Linux sysadmin and a tech enthusiast. I love working with Linux. Ubuntu and CentOS 
-are my favorite distros. I started my career as a Sysadmin and would like to see myself 
-contributing  to Open Source Community in as many ways possible and helping people. I am 
-interested in working  with Cloud, Automation, and Devops.
+IT Professional with over 4+ years of experience in Systems Administration with specialization
+in Linux, OpenStack, Web Hosting & Infrastructure Management Systems. 
+Seeking to leverage my technical and customer skills to grow and prosper in the fields of 
+Server Administration, SRE and DevOps.
 
 
 SKILLS
