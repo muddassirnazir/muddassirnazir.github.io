@@ -30,20 +30,22 @@ PROFESSIONAL EXPERIENCE
 
 DEVOPS ENGINEER, GSS INFOTECH, HYDERABAD (IN)                            MARCH ’17 – PRESENT
 ---------------------------------------------------------------------------------------------
-Working with Rakuten Marketing Inc. as a L2 Sysadmin with Openstack expertise.
+Working with Rakuten Marketing Inc. as a L2 Sysadmin with OpenStack expertise.
 
-My responsibilities include server migrations between different Openstack environment, 
-working with the onsite team to resolve AWS issues and handle AWS tasks and requests.
+My responsibilities include server migrations between different Openstack environment, working with the onsite
+team to resolve AWS issues and handle AWS tasks and requests.
 
-Reviewing security groups and user permissions in Openstack and AWS.
+Managing and reviewing security groups and user permissions in Openstack and AWS.
 
-Managing Git repositories, servers and handling Jenkins2 users and jobs.
+Managing Git repositories, servers and handling Jenkins-2 users and jobs.
 
-Worked with Ansible to deploy Zabbix agents to required nodes and creating new servers. 
+Worked with Ansible to deploy Zabbix agents to required nodes and creating new servers.
 
-Documenting new tasks and processes to create SOPs for L1 Sysadmins.
+Server Migrations: KVM to Openstack, Live migrations within Openstack, Manual Server Migrations.
 
+Working with Packer to create custom images for AWS and Openstack.
 
+Working with Vagrant to deploy development environments.
 
 
 SYSTEMS ADMINISTRATOR, ZNETLIVE, JAIPUR (IN)                           MAY ’15 – DECEMBER ‘16
