@@ -4,7 +4,7 @@
 Phone : +91-8005543329                Hyderabad IN                Email : mnazir.me@gmail.com
 =============================================================================================
 
-IT Professional with over 4+ years of experience in Systems Administration with specialization
+IT Professional with over 5+ years of experience in Systems Administration with specialization
 in Linux, OpenStack, Web Hosting & Infrastructure Management Systems. 
 Seeking to leverage my technical and customer skills to grow and prosper in the fields of 
 Server Administration, SRE and DevOps.
@@ -27,8 +27,14 @@ with Ansible, working with GIT repositories, CI with Jenkins2.
 
 PROFESSIONAL EXPERIENCE
 ***********************
+SITE RELIABILITY ENGINEER, SALESFORCE, HYDERABAD (IN)                            JUNE ’19 – PRESENT
+---------------------------------------------------------------------------------------------
+The SRE organization provides leadership for the availability and reliability of Salesforce products 
+by acting as the agent of change through continuous partnership with service owners to monitor, 
+respond, and proactively identify and fix resiliency gaps.
 
-DEVOPS ENGINEER, GSS INFOTECH, HYDERABAD (IN)                            MARCH ’17 – PRESENT
+
+DEVOPS ENGINEER, GSS INFOTECH, HYDERABAD (IN)                            MARCH ’17 – MAY '19
 ---------------------------------------------------------------------------------------------
 Working with Rakuten Marketing Inc. as a L2 Sysadmin with OpenStack expertise.
 
